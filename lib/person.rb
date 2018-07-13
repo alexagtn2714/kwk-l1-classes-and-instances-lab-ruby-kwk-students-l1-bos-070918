@@ -1,4 +1,5 @@
 # person.rb
-# class person
-  
-#   attr_reader :adele_goldbeerg, :alan_key
+class person
+end 
+
+adele_
